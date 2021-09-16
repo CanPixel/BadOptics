@@ -11,8 +11,7 @@
 
 <hr>
 
-# 👀 BAD OPTICS! 👨🏻
-🧠💭🎩🏴‍☠️💸
+# 👀 👨🏻 🧠 💭 🎩 🏴‍☠️ 💸 
 
 _“Politicians are specifically tailored to connect and relate as much as possible with the populus,
 or are they?” 👔👨🏻_
