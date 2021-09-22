@@ -13,8 +13,7 @@
 
 # 👀 👨🏻 🧠 💭 🎩 🏴‍☠️ 💸 
 
-_“You are specifically tailored to connect and relate as much as possible with the populus,
-or do whatever” 👔👨🏻_
+_“You are specifically tailored to connect and relate as much as possible with the populus. That, or do whatever” 👔👨🏻_
 
 
 
