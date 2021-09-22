@@ -13,18 +13,18 @@
 
 # 👀 👨🏻 🧠 💭 🎩 🏴‍☠️ 💸 
 
-_“Politicians are specifically tailored to connect and relate as much as possible with the populus,
-or are they?” 👔👨🏻_
+_“You are specifically tailored to connect and relate as much as possible with the populus,
+or do whatever” 👔👨🏻_
 
 
 
 Using 8values, altvalues, and a range of political tests, this game ultimately acts as
 a __‘Gamified Political Compass’__
 
-This game is built on a nihilism towards the subjectivity of politics, the virtue signalling of political movements despite most of them resulting in imperfect government systems and/or more polarisation.
+Ooh, the subjectivity of politics, the virtue signalling of political movements, all that despite most of them resulting in imperfect government systems and possibly more polarisation.
 
 _You can’t please everyone,
-...but wanna try? 👀_
+...but would you try? 👀_
 
 
 The faith of the political climate is now within your hands!
@@ -46,7 +46,7 @@ _Combining [8values](https://github.com/8values/), [altvalues](https://github.co
 __Made by Can Ur
 2020-2021__
 
-__Co-Designed & Tailored with Greg (JREG) Guevara__
+__Co-Designed & Tailored with JREG__
 
 
 ---
