@@ -45,7 +45,7 @@ _Combining [8values](https://github.com/8values/), [altvalues](https://github.co
 __Made by Can Ur
 2020-2021__
 
-__Co-Tailored with <a href='https://www.youtube.com/user/flavacrava' target='_blank'>JREG</a>__
+__Co-Tailored with <a href='https://www.youtube.com/user/flavacrava' target='_blank'>Jreg</a>__
 
 
 ---
