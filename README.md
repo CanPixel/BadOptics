@@ -27,7 +27,8 @@ _You can’t please everyone,
 
 
 The faith of the political climate is now within your hands!
-BAD OPTICS soon available for desktop, on [CanPixel.com](https://canpixel.com/projects.php)
+BAD OPTICS soon available for desktop!
+[CanPixel.com](https://canpixel.com/projects.php)
 
 
 
