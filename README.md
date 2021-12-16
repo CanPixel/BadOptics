@@ -17,13 +17,15 @@ _“Your job is specifically to connect and relate as much as possible with your
 
 
 Using a range of political tests, presented to you:
-# THE GAMIFIED POLITICAL COMPASS [play in browser here!](canpixel.github.io/BadOptics/)
+# THE GAMIFIED POLITICAL COMPASS [play in browser here!](https://canpixel.github.io/BadOptics/)
 
 _You can’t please everyone,
 ...but wanna try? 👀_
 
 
-The faith of the political climate is now within your hands. Take your ideologies to the ULTIMATE TEST!
+The faith of the political climate is now within your hands. Take your ideology to the ULTIMATE TEST!
+
+[Go and take the test](https://canpixel.github.io/BadOptics/)
 
 [CanPixel.com](https://canpixel.com/projects.php)
 
