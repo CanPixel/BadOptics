@@ -19,11 +19,14 @@ _“Your job is specifically to connect and relate as much as possible with your
 Using a range of political tests, presented to you:
 # THE GAMIFIED POLITICAL COMPASS [play in browser here!](https://canpixel.github.io/BadOptics/)
 
+You know what they say, opposites repel.
+
+Take your ideology to the ULTIMATE TEST as this collect-a-thon makes you hoard all your political beliefs together into one incoherent word salad.  
+The faith of the political climate is now within your hands!
+
 _You can’t please everyone,
 ...but wanna try? 👀_
 
-
-The faith of the political climate is now within your hands. Take your ideology to the ULTIMATE TEST!
 
 [Go and take the test](https://canpixel.github.io/BadOptics/)
 
