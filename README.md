@@ -27,7 +27,7 @@ _You can’t please everyone,
 
 
 The faith of the political climate is now within your hands!
-BAD OPTICS soon available for desktop!
+# GAMIFIED POLITICAL COMPASS [play in browser here!](canpixel.github.io/BadOptics/)
 [CanPixel.com](https://canpixel.com/projects.php)
 
 
