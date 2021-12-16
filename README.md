@@ -27,8 +27,6 @@ The faith of the political climate is now within your hands. Take your ideology 
 
 [Go and take the test](https://canpixel.github.io/BadOptics/)
 
-[CanPixel.com](https://canpixel.com/projects.php)
-
 
 
 <img src='https://github.com/CanPixel/BadOptics/blob/Wiki-Icons/wiki_game.jpg'>
@@ -44,6 +42,7 @@ _Combining [8values](https://github.com/8values/), [altvalues](https://github.co
 
 __Made by Can Ur
 2020-2021__
+[CanPixel.com](https://canpixel.com/projects.php)
 
 __Co-Tailored with <a href='https://www.youtube.com/user/flavacrava' target='_blank'>Jreg</a>__
 
