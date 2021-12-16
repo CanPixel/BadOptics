@@ -16,18 +16,15 @@
 _“Your job is specifically to connect and relate as much as possible with your populus. That, or do whatever” 👔👨🏻_
 
 
-
-Using 8values, altvalues, and a range of political tests, this game ultimately acts as
-a __‘Gamified Political Compass’__
-
-Ooh, the subjectivity of politics, the virtue signalling of political movements, all that despite most of them resulting in imperfect government systems and possibly more polarisation.
+Using a range of political tests, presented to you:
+# THE GAMIFIED POLITICAL COMPASS [play in browser here!](canpixel.github.io/BadOptics/)
 
 _You can’t please everyone,
-...but would you try? 👀_
+...but wanna try? 👀_
 
 
-The faith of the political climate is now within your hands!
-# GAMIFIED POLITICAL COMPASS [play in browser here!](canpixel.github.io/BadOptics/)
+The faith of the political climate is now within your hands. Take your ideologies to the ULTIMATE TEST!
+
 [CanPixel.com](https://canpixel.com/projects.php)
 
 
