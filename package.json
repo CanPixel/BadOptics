@@ -1,6 +1,5 @@
 {
   "name": "github-wiki-sidebar",
-  "version": "Post-JREG v1.0.0",
   "description": "Automaticaly generate a multi-level github wiki sidebar menu (_Sidebar.md) from the filenames in the wiki repository",
   "main": "bin/github-wiki-sidebar.js",
   "scripts": {
