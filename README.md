@@ -15,7 +15,7 @@
 
 # 👀 👨🏻 🧠 💭 🎩 🏴‍☠️ 💸 
 
-_“Your job is specifically to connect and relate as much as possible with your populus. That, or do whatever” 👔👨🏻_
+_“Answer a series of political questions in a desperate attempt to please your ideologically divided populace. Have your ideology shift to match your values, to the love and horror of your citizens! Wage war! Make peace! Or do whatever.” 👔👨🏻_
 
 
 Using a range of political SapplyValues tests, presented to you:
