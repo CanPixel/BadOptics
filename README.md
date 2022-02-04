@@ -4,6 +4,8 @@
 
 </p>
 
+<a href='https://github.com/CanPixel/BadOptics/wiki' >GO TO WIKI</a>
+
 <p align='center'>
 <img src='https://github.com/CanPixel/BadOptics/blob/Wiki-Icons/IMG_3149.PNG' width='50%'>
 
