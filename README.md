@@ -19,7 +19,9 @@ _“Answer a series of political questions in a desperate attempt to please your
 
 
 Using a range of political SapplyValues tests, presented to you:
-# THE GAMIFIED POLITICAL COMPASS [play in browser here!](https://canpixel.github.io/BadOptics/)
+# THE GAMIFIED POLITICAL COMPASS [play in browser!](https://canpixel.github.io/BadOptics/)
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="cannemen" data-color="#FFDD00" data-emoji=""  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 Take your ideology to the ULTIMATE TEST as this collect-a-thon makes you hoard all your political beliefs together into one incoherent word salad.  
 The faith of the political climate is now within your hands!
