@@ -1,18 +1,32 @@
-name: Trello Issue List
+name: "CI Setup for IFTTT Webhook"
+
 on:
   issues:
     types: [opened]
-env:
-  TRELLO_KEY: ${{ secrets.TRELLO_KEY }}
-  TRELLO_TOKEN: ${{ secrets.TRELLO_TOKEN }}
-  
+
+#on:
+#  pull_request:
+#  push:
+#    branches:
+#      - master
+#      - 'releases/*'
+
 jobs:
-  issue_send:
-    name: Send Issue to Trello
+  # unit tests
+#  units:
+#    runs-on: ubuntu-latest
+#    steps:
+#    - uses: actions/checkout@v1
+#    - run: npm ci
+#    - run: npm test
+
+  # test action works running from the graph  
+  test:
     runs-on: ubuntu-latest
     steps:
-      - name: Runs trello manage
-        uses: sisodiya2421/trello-manage@master
-        with:
-          repo-name: 'BadOptics'
-          trello-username: 'canur'
+    - uses: actions/checkout@v1
+    - uses: ./
+      with:
+        milliseconds: 1000
+        event: "github_issue"
+        key: "EoNxVmkmo3cxJQct-8MvT"
