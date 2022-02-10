@@ -48,6 +48,7 @@ _Combining [8values](https://github.com/8values/), [altvalues](https://github.co
 __Made by Can Ur
 2020-2021__
 [CanPixel.com](https://canpixel.com/projects.php)
+Email me your inquiries - canur@canpixel.com
 
 __Co-Tailored with <a href='https://www.youtube.com/user/flavacrava' target='_blank'>Jreg</a>__
 
@@ -55,8 +56,6 @@ __Co-Tailored with <a href='https://www.youtube.com/user/flavacrava' target='_bl
 ---
 
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-
-Email me your inquiries - canur@canpixel.com
 
 MIT License
 
