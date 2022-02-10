@@ -14,7 +14,6 @@ jobs:
       TRELLO_BOARD_ID: ${{ secrets.TRELLO_BOARD_ID }}
       TRELLO_TODO_LIST_ID: ${{ secrets.TRELLO_TODO_LIST_ID }}
       TRELLO_DONE_LIST_ID: ${{ secrets.TRELLO_DONE_LIST_ID }}
-      TRELLO_MEMBER_MAP: ${{ secrets.TRELLO_MEMBER_MAP }}
     steps:
       - name: Create Card
         id: card-create
