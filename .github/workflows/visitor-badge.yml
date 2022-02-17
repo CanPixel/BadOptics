@@ -1,0 +1,13 @@
+name: Visitor Badge
+on:
+  pull_request:
+    types: [opened]
+  issues:
+    types: [opened]
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: wow-actions/visitor-badge@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
