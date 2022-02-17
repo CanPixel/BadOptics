@@ -29,6 +29,34 @@ The faith of the political climate is now within your hands!
 _You can’t please everyone,
 ...but wanna try? 👀_
 
+# Quick Keys
+<table>
+  <tr>
+    <th>Game Action</th>
+    <th>Quick Key</th>
+  </tr>
+  <tr>
+    <td>Answer Agree</td>
+    <td> A </td>
+  </tr>
+  <tr>
+    <td>Answer Meh</td>
+    <td> S / Space </td>
+  </tr>
+  <tr>
+    <td>Answer Disagree</td>
+    <td> D </td>
+  </tr>
+  <tr>
+    <td>Close any open window</td>
+    <td> X </td>
+  </tr>
+  <tr>
+    <td>View Toggle / Change View</td>
+    <td> V </td>
+  </tr>
+</table>
+<pre></pre>
 
 [Go and take the test](https://canpixel.github.io/BadOptics/)
 
