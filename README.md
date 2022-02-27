@@ -18,7 +18,7 @@
 _“Answer a series of political questions in a desperate attempt to please your ideologically divided populace. Have your ideology shift to match your values, to the love and horror of your citizens! Wage war! Make peace! Or do whatever.” 👔👨🏻_
 
 
-Using a range of political SapplyValues tests, presented to you:
+Using a range of online political tests, we present to you:
 # THE GAMIFIED POLITICAL COMPASS [play in browser!](https://canpixel.github.io/BadOptics/)
 
 <a target='_blank' href='https://paypal.me/canneke'>Donate me some coffee!</a>
