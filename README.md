@@ -59,14 +59,6 @@ _You can’t please everyone,
     <td>Open IdeologyDex</td>
     <td> I </td>
   </tr>
-  <tr>
-    <td>Open Political Compass Map</td>
-    <td> C </td>
-  </tr>
-  <tr>
-    <td>View all policies</td>
-    <td> P </td>
-  </tr>
 </table>
 <pre></pre>
 
