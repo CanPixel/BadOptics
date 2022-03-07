@@ -1,0 +1,114 @@
+name: The Gamified Political Compass
+
+on: 
+  push:
+    tags:
+    - '*'
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Process version of the tag
+      id: version
+      uses: ncipollo/semantic-version-action@v1
+    - name: Dump steps context
+      env:
+        STEPS_CONTEXT: ${{ toJson(steps.version.outputs) }}
+      run: echo "$STEPS_CONTEXT"
+    - name: Dump previous tag
+      env:
+        PREVIOUS_TAG: ${{ steps.version.outputs.previous_tag }}
+      run: echo "$PREVIOUS_TAG"
+      
+
+---
+title: "Welcome to The Gamified Political Compass! 👀👨🏻🧠💭🎩🏴‍☠️💸"
+author: Can Ur
+date: 2021-09-17
+unity_dir: v1
+
+navbar-links:
+  Resources:
+    - 8values: "https://github.com/8values/8values.github.io"
+    - 9axes: "https://9axes.github.io/"
+    - InfValues: "https://infvalues.github.io/"
+  Author's home: "https://www.canpixel.com"
+  
+# --- Logo --- #
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "https://raw.githubusercontent.com/CanPixel/BadOptics/Wiki-Icons/IMG_3149.PNG"
+
+social-network-links:
+  email: "canur@canpixel.com"
+  instagram: cannemen
+  reddit: canpixel
+  twitter: PhuckYuToo
+  youtube: c/UCMXAZOEUz87tNZB-3ExX4pw
+  
+share-links-active:
+  twitter: true
+  instagram: true
+  reddit: true
+  youtube: true
+  email: true
+  facebook: false
+  linkedin: false
+  vk: false
+ 
+
+# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
+excerpt_length: 50
+
+# Whether or not to show an excerpt for every blog post in the feed page
+feed_show_excerpt: true
+
+# Whether or not to show a list of tags below each post preview in the feed page
+feed_show_tags: true
+
+# Add a search button to the navbar
+post_search: true
+
+# The keywords to associate with your website, for SEO purposes
+keywords: "badoptics,politics,political,ideology,politicalcompass,compasstest,politicaltest,ideologies,extremism,centrism,authoritarian,libertarian,jreg,polcompball,polcomp,politicalcompass,game,gamified,unity,ideologyball,ideologyballs"
+
+categories:
+  - Gaming
+tags:
+  - test
+  - game
+  - politics
+  - political
+  - ideology
+  - ideological
+  - polcompball
+  - political compass
+  - political ideology
+  - unity game
+  - gamified political compass
+  - anti-centrism
+---
+
+theme: jekyll-theme-tactile
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # any file that's not a post will be a "page" layout by default
+    values:
+      layout: "page"
+
+plugins:
+  - jekyll-seo-tag
