@@ -19,7 +19,7 @@ _“Answer a series of political questions in a desperate attempt to please your
 
 
 Using a range of political SapplyValues tests, presented to you:
-# THE GAMIFIED POLITICAL COMPASS [play in browser here!](https://canpixel.github.io/BadOptics/)
+# THE GAMIFIED POLITICAL COMPASS [play in browser here!](https://canpixel.com/BadOptics/)
 
 Take your ideology to the ULTIMATE TEST as this collect-a-thon makes you hoard all your political beliefs together into one incoherent word salad.  
 The faith of the political climate is now within your hands!
@@ -45,7 +45,7 @@ _Combining [8values](https://github.com/8values/), [altvalues](https://github.co
 
 __Made by Can Ur
 2020-2021__
-[CanPixel.com](https://canpixel.com/projects.php)
+[CanPixel.com](https://canpixel.com/gameprojects.php)
 <br>
 Email me your inquiries - canur@canpixel.com
 
