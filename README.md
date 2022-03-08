@@ -19,7 +19,7 @@ _“Answer a series of political questions in a desperate attempt to please your
 
 
 Using a range of political SapplyValues tests, presented to you:
-# THE GAMIFIED POLITICAL COMPASS [play in browser here!](https://canpixel.github.io/BadOptics/)
+# THE GAMIFIED POLITICAL COMPASS [play in browser here!](https://canpixel.com/BadOptics/)
 
 Take your ideology to the ULTIMATE TEST as this collect-a-thon makes you hoard all your political beliefs together into one incoherent word salad.  
 The faith of the political climate is now within your hands!
@@ -45,7 +45,7 @@ _Combining [8values](https://github.com/8values/), [altvalues](https://github.co
 
 __Made by Can Ur
 2020-2021__
-[CanPixel.com](https://canpixel.com/projects.php)
+[CanPixel.com](https://canpixel.com/gameprojects.php)
 <br>
 Email me your inquiries - canur@canpixel.com
 
@@ -80,7 +80,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-Community content <https://polcompball.fandom.com/> is available under CC-BY-SA unless otherwise noted.
-https://creativecommons.org/licenses/by-sa/2.0/ 
