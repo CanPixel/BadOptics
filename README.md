@@ -115,5 +115,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-Community content <https://polcompball.fandom.com/> is available under CC-BY-SA unless otherwise noted.
+Community content https://polcompball.fandom.com/ is available under CC-BY-SA unless otherwise noted.
 https://creativecommons.org/licenses/by-sa/2.0/ 
