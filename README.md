@@ -62,7 +62,7 @@ _You can’t please everyone,
 </table>
 <pre></pre>
 
-[Go and take the test](https://canpixel.github.io/BadOptics/)
+[Go and take the test](https://canpixel.com/BadOptics/)
 
 
 
@@ -79,7 +79,7 @@ _Combining [8values](https://github.com/8values/), [altvalues](https://github.co
 
 __Made by Can Ur
 2020-2021__
-[CanPixel.com](https://canpixel.com/projects.php)
+[CanPixel.com](https://canpixel.com/gameprojects.php)
 <br>
 Email me your inquiries - canur@canpixel.com
 
