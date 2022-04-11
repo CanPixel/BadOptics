@@ -19,7 +19,7 @@ _“Answer a series of political questions in a desperate attempt to please your
 
 
 Using a range of online political tests, we present to you:
-# THE GAMIFIED POLITICAL COMPASS [play in browser!](https://canpixel.github.io/BadOptics/)
+# THE GAMIFIED POLITICAL COMPASS [playable in browser!](https://canpixel.github.io/BadOptics/)
 
 <a target='_blank' href='https://paypal.me/canneke'>Donate me some coffee!</a>
 
