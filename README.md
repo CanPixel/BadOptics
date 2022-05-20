@@ -77,13 +77,22 @@ _You can’t please everyone,
 
 _Combining [8values](https://github.com/8values/), [altvalues](https://github.com/altvalues/), [infvalues](https://github.com/infvalues/), [9axes](https://github.com/9axes/), Jreg's 100 dimensional political compass, and the polcompball wiki into one ideologically exciting, anti-centrist game experience!_
 
+Year of release: Anno 2021
+
+[PLAY NOW @ BadOptics.canpixel.com](www.Badoptics.CanPixel.com)
+
+[DONATE](http://paypal.me/canneke)
+
+www.canpixel.com
+
+Made by [Can Ur (CanPixel)](www.canpixel.com)
+__Co-Tailored with <a href='https://www.youtube.com/user/flavacrava' target='_blank'>Jreg</a>__
+
 __Made by Can Ur
 2020-2021__
 [CanPixel.com](https://canpixel.com/gameprojects.php)
 <br>
 Email me your inquiries - canur@canpixel.com
-
-__Co-Tailored with <a href='https://www.youtube.com/user/flavacrava' target='_blank'>Jreg</a>__
 
 
 ---
