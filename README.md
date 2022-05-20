@@ -75,6 +75,8 @@ _You can’t please everyone,
 
 <hr>
 
+**[DONATE TO THE DEV](http://paypal.me/canneke)**
+
 _Combining [8values](https://github.com/8values/), [altvalues](https://github.com/altvalues/), [infvalues](https://github.com/infvalues/), [9axes](https://github.com/9axes/), Jreg's 100 dimensional political compass, and the polcompball wiki into one ideologically exciting, anti-centrist game experience!_
 
 Year of release: Anno 2021
