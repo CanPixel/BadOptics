@@ -1,0 +1,40 @@
+## [Reformism v2] (20-07-2022)
+
+### CONTENT
+* Added 2 new policies:
+	- Added "Special Military Operation"
+	- Added "The Neoliberal"
+* Added 2 new ideologies: Eco-Posadism, Titoism
+* Playing as an internationalist makes you more frequently in tune with/aware of the emotions of other countryballs. They show their opinions of you automatically, more often
+* The PlayerID scales (at the left) are now more directly linked with the real-time values. 
+More responsive and coherent, it shows the effects of each question more clearly
+* The 'Z' key can now also be used as a shortcut for changing the game view / zooming in
+
+### Buffs / Nerfs
+* Buffed effectivity of Redirective Institutional Facility (Not Gulag) & Death Flights policies by 10% 
+* Decreased the war turns of Tribal War from 10, to 7
+* Radical Centrist now has a 25% chance of changing its favourite propaganda value, when answering a question
+* Getting the CopyCat policy multiple times, in the same playthrough, is now significantly harder
+* CopyCat now also updates the compass position immediately
+
+### FIXES
+* Fixed a typo in the description of Apoliticism 
+* Fixed the conflation of 'Universal' and 'World' within the sorting of the IdDex, it is now the same 
+* Copycat bug is now resolved (or so I think, if not do notify me!)
+* Fixed the Ideological Assessment navigation arrows being unresponsive
+* Citizen reactions should now be less inconsistent. However do note, that the public opinion is based on the 4-dimensional distance to your ideology, NOT the specific questions.
+* Slightly increased scrollspeed in scrolling menus 
+* The Diplomatic Win Ending (Geopolitical Stability) now only checks for the conditions after executing a diplomatic policy. This, so it occurs less randomly.
+
+### OPTIMIZATION
+* EndState check happens less frequently, and is more streamlined!
+* All ideologies are now cached as texture resources, greatly reducing in-game lag!
+* Compressed and optimized the build size, reducing all texture file sizes for faster game boot-up time
+* Misc code cleanups
+
+### MISC
+* "You're too apolitical to answer questions!"
+* "Zoom out to use your policies" 
+* Extremism bias default value increased to 0.75 in ideological assessment
+* Reduced the Ideological Assessment results to 7 tiers
+* UI View toggle is now positioned at the bottom-right corner of the screen (& other minor UI changes)
