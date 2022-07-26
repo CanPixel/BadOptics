@@ -1,4 +1,4 @@
-## [Major Reformism v2.5] ()
+## [Major Reformism v2.5] (26-07-2022)
 * FIXED THE GAME-BREAKING BUG: Revolt/Reform not resetting public opinion
 * Made most in-game text sizes consistent across different resolutions / font-size less dependent on screen resolution
 * Fixed some minor dynamic font scaling / text scaling flaws: Text on higher DPI/resolution displays glitched and became illegible. This shouldn't break that easily anymore. **If this still happens, do let me know!**
