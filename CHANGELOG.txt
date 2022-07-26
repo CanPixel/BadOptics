@@ -1,4 +1,14 @@
-## [Reformism v2] (20-07-2022)
+## [Major Reformism v2.5] ()
+* FIXED THE GAME-BREAKING BUG: Revolt/Reform not resetting public opinion
+* Made most in-game text sizes consistent across different resolutions / font-size less dependent on screen resolution
+* Fixed some minor dynamic font scaling / text scaling flaws: Text on higher DPI/resolution displays glitched and became illegible. This shouldn't break that easily anymore. **If this still happens, do let me know!**
+* Fixed a bug to do with country emotes, that caused the game to freeze randomly after playing 
+* The Neoliberal policy is now used on your own populace instead of other countryballs
+* Fixed inconsistent cursor selection in the IdeologyDex when hovering over ideologies
+* Gigantic optimization, halved the amount of GameObjects present in-game. 
+
+
+## [Minor Reformism v2] (20-07-2022)
 
 ### CONTENT
 * Added 2 new policies:
