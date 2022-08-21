@@ -56,7 +56,6 @@ _You can’t please everyone,
     <td> V </td>
   </tr>
 </table>
-<pre></pre>
 
 [Go and take the test](https://canpixel.com/BadOptics/)
 
