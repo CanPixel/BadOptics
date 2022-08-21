@@ -54,11 +54,6 @@ _You can’t please everyone,
   <tr>
     <td>View Toggle / Change View</td>
     <td> V </td>
-  </tr>
-    <tr>
-    <td>Open IdeologyDex</td>
-    <td> I </td>
-  </tr>
 </table>
 <pre></pre>
 
