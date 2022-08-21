@@ -1,4 +1,20 @@
-## [Major Reformism v2.5] (26-07-2022)
+## [DEMOCRATIC REVOLUTION v3] (August 2022)
+* FIXED THE SURVEILLANCE/GULAG/DEATH FLIGHTS/PURGE POLICIES CRASHING THE GAME
+* FIXED PRESSING 'C' WHILE IN-GAME FREEZING THE GAME
+* 6 NEW IDEOLOGIES: Neozapatismo, Left-Rothbardianism, Situationism, Getulism, Blueshirtism, Metaxism
+* 2 NEW POLICIES [DEMOCRACY POLL RESULTS]: Liberation Rally, Personality Cult
+* THE 'I' KEY NOW TOGGLES THE IDEOLOGYDEX ON/OFF
+* Slightly nerfed Propaganda Catering
+* Propaganda values & citizen reactions are now more direct / instant, meaning synchronous with the player instead of lacking behind one turn
+* Buffed 'The Purge': Radicalizes more radically
+* Added the policy button & menu back in-game
+* Added a "Quick Keys" CONTROLS window in main & pause menu
+* FIXED longer Ideology titles getting cut off within the IdeologyDex
+* Fixed ideologydex description being hoverable when locked
+* Minor Optimizations
+
+
+## [Major Reformism v2.5] (July 2022)
 * FIXED THE GAME-BREAKING BUG: Revolt/Reform not resetting public opinion
 * Made most in-game text sizes consistent across different resolutions / font-size less dependent on screen resolution
 * Fixed some minor dynamic font scaling / text scaling flaws: Text on higher DPI/resolution displays glitched and became illegible. This shouldn't break that easily anymore. **If this still happens, do let me know!**
@@ -9,8 +25,6 @@
 
 
 ## [Minor Reformism v2] (20-07-2022)
-
-### CONTENT
 * Added 2 new policies:
 	- Added "Special Military Operation"
 	- Added "The Neoliberal"
@@ -20,14 +34,12 @@
 More responsive and coherent, it shows the effects of each question more clearly
 * The 'Z' key can now also be used as a shortcut for changing the game view / zooming in
 
-### Buffs / Nerfs
 * Buffed effectivity of Redirective Institutional Facility (Not Gulag) & Death Flights policies by 10% 
 * Decreased the war turns of Tribal War from 10, to 7
 * Radical Centrist now has a 25% chance of changing its favourite propaganda value, when answering a question
 * Getting the CopyCat policy multiple times, in the same playthrough, is now significantly harder
 * CopyCat now also updates the compass position immediately
 
-### FIXES
 * Fixed a typo in the description of Apoliticism 
 * Fixed the conflation of 'Universal' and 'World' within the sorting of the IdDex, it is now the same 
 * Copycat bug is now resolved (or so I think, if not do notify me!)
@@ -36,13 +48,11 @@ More responsive and coherent, it shows the effects of each question more clearly
 * Slightly increased scrollspeed in scrolling menus 
 * The Diplomatic Win Ending (Geopolitical Stability) now only checks for the conditions after executing a diplomatic policy. This, so it occurs less randomly.
 
-### OPTIMIZATION
 * EndState check happens less frequently, and is more streamlined!
 * All ideologies are now cached as texture resources, greatly reducing in-game lag!
 * Compressed and optimized the build size, reducing all texture file sizes for faster game boot-up time
 * Misc code cleanups
 
-### MISC
 * "You're too apolitical to answer questions!"
 * "Zoom out to use your policies" 
 * Extremism bias default value increased to 0.75 in ideological assessment
